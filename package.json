@@ -24,6 +24,7 @@
         "lodash": "^4.17.20",
         "nalapa": "^1.11.0",
         "node-nlp": "^4.14.4",
+        "nodemon": "^3.1.0",
         "recursive-readdir": "^2.2.2"
     },
     "devDependencies": {
